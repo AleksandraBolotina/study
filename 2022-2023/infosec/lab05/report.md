@@ -88,7 +88,7 @@ Sticky на запись и удаление файлов.
 
 # Список литературы{.unnumbered}
 
-1. [Лабораторная работа № 5]([https://esystem.rudn.ru/pluginfile.php/1652025/mod_resource/content/2/005-lab_discret_sticky.pdf])
+1. [Лабораторная работа № 5](https://esystem.rudn.ru/pluginfile.php/1652025/mod_resource/content/2/005-lab_discret_sticky.pdf)
 
 ::: {#refs}
 :::
