@@ -91,7 +91,7 @@ header-includes:
   
 Ключ:   
 ![изображение](https://user-images.githubusercontent.com/113191444/197333159-e765a64d-370c-47ee-b628-5af6a15c53ec.png)  
-Текст зашифрованного сообщения:
+Текст зашифрованного сообщения:  
 ![изображение](https://user-images.githubusercontent.com/113191444/197333172-a62c58c5-aa35-4fc6-ad59-6064a2f42a81.png)  
 Расшифрованное сообщение:  
 ![изображение](https://user-images.githubusercontent.com/113191444/197333167-c90022f0-e144-41a3-be97-69ebcc4c0183.png)  
