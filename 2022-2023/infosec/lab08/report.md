@@ -125,7 +125,6 @@ Ciphertext for plaintext 2 and the key: 0*?Yn
 The result of the gamming of two ciphers and the source text:
 XOS5yNw
 UR^4fe_XS=
-
 ```
 
 # Выводы
