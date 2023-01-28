@@ -48,11 +48,11 @@ section-titles: true
 
 ## Данные лабораторной работы для случая
 
-![График 1](image/1.png){ #fig:002 width=70% }
+![График 1]{![изображение](https://user-images.githubusercontent.com/113191444/215263147-a0e75a8f-f9cd-4bb0-808e-2ce1b33c9326.png)}
 
 ## Результат выполнения лабораторной работы для случая
 
-![График 2](image/2.png){ #fig:003 width=70% }
+![График 2]![изображение](https://user-images.githubusercontent.com/113191444/215263166-82a36f00-ac64-4150-9326-ba78fcfcb07e.png)
 
 ## Выводы
 
