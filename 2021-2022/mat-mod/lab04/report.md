@@ -155,11 +155,11 @@ plt.grid(axis = 'both')
 ```
 Получила следующие графики (см. рис. -@fig:001, -@fig:002, -@fig:003).
 
-![Рис. 1. График для 1 случая]([image/1.png](https://user-images.githubusercontent.com/113191444/222901796-2eff0f25-fa0b-4aae-88bf-31cdc6560230.png)){ #fig:001 width=70% }
+![Рис. 1. График для 1 случая](https://user-images.githubusercontent.com/113191444/222901796-2eff0f25-fa0b-4aae-88bf-31cdc6560230.png){ #fig:001 width=70% }
 
-![Рис. 2. График для 2 случая]([image/2.png](https://user-images.githubusercontent.com/113191444/222901874-b3647421-b6a4-47ef-b221-fa0886aff013.png)){ #fig:002 width=70% }
+![Рис. 2. График для 2 случая](https://user-images.githubusercontent.com/113191444/222901874-b3647421-b6a4-47ef-b221-fa0886aff013.png){ #fig:002 width=70% }
 
-![Рис. 3. График для 3 случая]([image/3.png](https://user-images.githubusercontent.com/113191444/222901964-0efdcca0-795e-4962-b8dc-a7149a08b61e.png)){ #fig:003 width=70% }
+![Рис. 3. График для 3 случая](https://user-images.githubusercontent.com/113191444/222901964-0efdcca0-795e-4962-b8dc-a7149a08b61e.png){ #fig:003 width=70% }
 
 # Выводы
 
