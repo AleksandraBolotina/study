@@ -135,10 +135,9 @@ equation
   der(y)=-c*y+d*x*y;
 end lab05;
 ```
-Получил следующиq график (см. рис. -@fig:001).
+Получила следующиq график (см. рис. -@fig:001).
 
 ![Рис. 1. График](https://user-images.githubusercontent.com/113191444/224508023-704819a3-d98d-4993-9820-3dbb5a33e848.png)){ #fig:001 width=70% }
-![image](https://user-images.githubusercontent.com/113191444/224508023-704819a3-d98d-4993-9820-3dbb5a33e848.png)
 
 
 **3. Стационарное состояние**
