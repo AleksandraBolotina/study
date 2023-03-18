@@ -94,6 +94,7 @@ $\frac{dI}{dt} = aS - bI, если I(t) > I*$ и $\frac{dS}{dt} = -bI, если 
 
 ## Написание кода 
 
+```
 mport math
 import numpy as np
 from scipy.integrate import odeint
@@ -139,6 +140,7 @@ plt.plot(t, y2[:,1], label='I(t)')
 plt.plot(t, y2[:,2], label='R(t)')
 plt.title('I(0) > I*')
 plt.legend()
+```
 
 # Результаты
 
@@ -148,8 +150,8 @@ plt.legend()
 
 Построила слудующие графики:
 
-![Рис. 1. График для 1 случая](image/1.png){ #fig:001 width=70% }
-![Рис. 2. График для 2 случая](image/2.png){ #fig:001 width=70% }
+![Рис. 1. График для 1 случая](image/1.PNG){ #fig:001 width=70% }
+![Рис. 2. График для 2 случая](image/2.PNG){ #fig:001 width=70% }
 
 # Вывод
 
