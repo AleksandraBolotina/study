@@ -38,7 +38,7 @@ header-includes:
   * студент группы НПИбд-02-19
   * Российский университет дружбы народов
   * [1032192943@pfur.ru](mailto:1032192943@pfur.ru)
-  * <https:https://github.com/AleksandraBolotina>
+  * <https://github.com/AleksandraBolotina>
 
 :::
 ::: {.column width="30%"}
