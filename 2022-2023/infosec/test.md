@@ -1,7 +1,6 @@
 Hello! I am SMS-Man Assistant Bot!
-If you have any questions/problems,  
-you can ask me about anything related with SMS-Man
-Feel free to contact me any time 24/7!
+If you have any questions/problems, you can ask me about anything related with SMS-Man
+Feel free to contact me any time 24/7!  
 Привет! Я — бот-ассистент от СМС-Ман!
 Если у Вас есть вопросы или проблемы, Вы можете задать мне любой вопрос об СМС-Ман
 Пишите мне в любое время 24/7!  
